@@ -1,2 +1,2 @@
-# Basic-Web-Projects
+# Blackjack-Game-Project
 html, css, javascript
