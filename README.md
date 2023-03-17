@@ -1,2 +1,2 @@
 # Basic-Web-Projects
-html, css, 
+html, css, javascript
