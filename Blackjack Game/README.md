@@ -16,7 +16,7 @@ You can draw as many cards as you want
 
 ![image](https://github.com/Vandita-Asudani/Basic-Web-Projects/blob/main/readme%20images/img1.PNG)
 
-### 2. You can click on "Stand" when you no longer want to draw cards and then the dealer will draw it's cards
+## 2. You can click on "Stand" when you no longer want to draw cards and then the dealer will draw it's cards
 
 ## 3. If the sum of cards of the dealer is greater than your sum , then you loses the game
 
